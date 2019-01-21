@@ -1,5 +1,5 @@
 # CSharp-Projekt-Zaliczeniowy
-Projekt wykonany na Języki i paradygmaty programowania
+Projekt wykonany na Języki i paradygmaty programowania - krótka gra tekstowa o podróży na zajęcia.
 
 # Programowanie obiektowe – pojęcia podstawowe
 -	Definiowanie klas, jej pól i metod
