@@ -1,0 +1,14 @@
+E:\projekty\ProjekcikZaliczeniowy2\ProjekcikZaliczeniowy2\bin\Debug\ProjekcikZaliczeniowy2.exe.config
+E:\projekty\ProjekcikZaliczeniowy2\ProjekcikZaliczeniowy2\bin\Debug\ProjekcikZaliczeniowy2.exe
+E:\projekty\ProjekcikZaliczeniowy2\ProjekcikZaliczeniowy2\bin\Debug\ProjekcikZaliczeniowy2.pdb
+E:\projekty\ProjekcikZaliczeniowy2\ProjekcikZaliczeniowy2\obj\Debug\ProjekcikZaliczeniowy2.csprojAssemblyReference.cache
+E:\projekty\ProjekcikZaliczeniowy2\ProjekcikZaliczeniowy2\obj\Debug\ProjekcikZaliczeniowy2.csproj.CoreCompileInputs.cache
+E:\projekty\ProjekcikZaliczeniowy2\ProjekcikZaliczeniowy2\obj\Debug\ProjekcikZaliczeniowy2.exe
+E:\projekty\ProjekcikZaliczeniowy2\ProjekcikZaliczeniowy2\obj\Debug\ProjekcikZaliczeniowy2.pdb
+C:\Users\hrabi\Downloads\ProjekcikZaliczeniowy2\ProjekcikZaliczeniowy2\bin\Debug\ProjekcikZaliczeniowy2.exe.config
+C:\Users\hrabi\Downloads\ProjekcikZaliczeniowy2\ProjekcikZaliczeniowy2\bin\Debug\ProjekcikZaliczeniowy2.exe
+C:\Users\hrabi\Downloads\ProjekcikZaliczeniowy2\ProjekcikZaliczeniowy2\bin\Debug\ProjekcikZaliczeniowy2.pdb
+C:\Users\hrabi\Downloads\ProjekcikZaliczeniowy2\ProjekcikZaliczeniowy2\obj\Debug\ProjekcikZaliczeniowy2.csprojAssemblyReference.cache
+C:\Users\hrabi\Downloads\ProjekcikZaliczeniowy2\ProjekcikZaliczeniowy2\obj\Debug\ProjekcikZaliczeniowy2.csproj.CoreCompileInputs.cache
+C:\Users\hrabi\Downloads\ProjekcikZaliczeniowy2\ProjekcikZaliczeniowy2\obj\Debug\ProjekcikZaliczeniowy2.exe
+C:\Users\hrabi\Downloads\ProjekcikZaliczeniowy2\ProjekcikZaliczeniowy2\obj\Debug\ProjekcikZaliczeniowy2.pdb
